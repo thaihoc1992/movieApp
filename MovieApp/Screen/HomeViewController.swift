@@ -14,6 +14,7 @@ class HomeViewController: UIViewController {
     var indexOfCellBeforeDragging = 0
     var data = [Movie]()
     var filterData = [Movie]()
+    //
     let greetingLabel: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
