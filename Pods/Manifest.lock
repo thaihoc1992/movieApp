@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.2)
+  - Gemini (1.4.0)
+  - Hero (1.6.1)
+  - Kingfisher (6.2.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Gemini
+  - Hero
+  - Kingfisher
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Gemini
+    - Hero
+    - Kingfisher
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  Gemini: 4ad915cca8805577fe3021e02feeca2b77dcdbfc
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  Kingfisher: e71c6fac2aebb1262888cabc2cb13d313362a48f
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 069a70ff16a78d2251125fb74ea3806d1039b7eb
+
+COCOAPODS: 1.10.1
