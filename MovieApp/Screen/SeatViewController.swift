@@ -312,7 +312,7 @@ class SeatViewController: UIViewController {
         coverView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: 0).isActive = true
         
         
-        nameLabel.topAnchor.constraint(equalTo: view.layoutMarginsGuide.topAnchor, constant: 20).isActive = true
+        nameLabel.topAnchor.constraint(equalTo: view.layoutMarginsGuide.topAnchor, constant: 10).isActive = true
         nameLabel.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 40).isActive = true
         nameLabel.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -40).isActive = true
         
